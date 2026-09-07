@@ -10,13 +10,11 @@ A Flutter-based emergency safety application designed to help users quickly send
 - 🔐 Firebase authentication
 - 🔔 Push and local notifications
 - 📳 Vibration feedback
-- 🔑 Biometric authentication
 
 ## 🛠️ Tech Stack
 
 - Flutter & Dart
 - Firebase Authentication & Firestore
-- Firebase Cloud Messaging
 - Google Maps
 - Geolocator
 - Local Notifications
